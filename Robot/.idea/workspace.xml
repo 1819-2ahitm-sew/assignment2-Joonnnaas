@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/at/htl/robot/model/Direction.java" line="7" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b1e571a9-2d6c-44a1-80d7-cd30cc8878c7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Direction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/at/htl/robot/model/RobotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/at/htl/robot/model/RobotTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,13 +19,83 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1439873536">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1180" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1180" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.spring.boot.run.usages" />
+    </session>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/robot/model/Direction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="185">
+              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc;n#getY#0;n#Robot#0" />
+                <element signature="e#146#147#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#252#253#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#372#373#0" expanded="true" />
+                <element signature="e#404#405#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -46,12 +119,18 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/at/htl/robot/model/DIRECTION.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java" />
         <option value="$PROJECT_DIR$/src/test/java/at/htl/robot/model/RobotTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Direction.java" />
-        <option value="$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
       </list>
     </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -60,7 +139,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="764" />
     <option name="y" value="210" />
     <option name="width" value="1043" />
@@ -73,8 +152,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Course" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -133,11 +210,15 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537714730598" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538124141663" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -166,18 +247,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+  <component name="RunManager" selected="JUnit.RobotTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Applet">
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="robot" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -203,13 +283,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RobotTest.rotateTwoTimes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="robot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="at.htl.robot.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="at.htl.robot.model" />
+      <option name="MAIN_CLASS_NAME" value="at.htl.robot.model.RobotTest" />
+      <option name="METHOD_NAME" value="rotateTwoTimes" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -217,9 +314,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RobotTest" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.RobotTest.rotateTwoTimes" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RobotTest" />
+        <item itemvalue="JUnit.RobotTest.rotateTwoTimes" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -235,49 +348,50 @@
       <updated>1537705436953</updated>
       <workItem from="1537711069489" duration="2579000" />
       <workItem from="1537714383475" duration="309000" />
+      <workItem from="1538118569690" duration="5114000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RobotTest - 2018.09.23 at 16h 15m 14s.xml">
+    <history-entry file="RobotTest - 2018.09.28 at 10h 30m 22s.xml">
       <configuration name="RobotTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RobotTest - 2018.09.23 at 16h 34m 28s.xml">
+    <history-entry file="RobotTest - 2018.09.28 at 10h 32m 09s.xml">
       <configuration name="RobotTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RobotTest - 2018.09.23 at 16h 34m 38s.xml">
+    <history-entry file="RobotTest - 2018.09.28 at 10h 32m 33s.xml">
       <configuration name="RobotTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RobotTest - 2018.09.23 at 16h 36m 19s.xml">
+    <history-entry file="RobotTest_rotateTwoTimes - 2018.09.28 at 10h 34m 15s.xml">
+      <configuration name="RobotTest.rotateTwoTimes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest_rotateTwoTimes - 2018.09.28 at 10h 34m 55s.xml">
+      <configuration name="RobotTest.rotateTwoTimes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest_rotateTwoTimes - 2018.09.28 at 10h 36m 25s.xml">
+      <configuration name="RobotTest.rotateTwoTimes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest_rotateTwoTimes - 2018.09.28 at 10h 36m 27s.xml">
+      <configuration name="RobotTest.rotateTwoTimes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest_rotateTwoTimes - 2018.09.28 at 10h 36m 54s.xml">
+      <configuration name="RobotTest.rotateTwoTimes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RobotTest - 2018.09.28 at 10h 37m 25s.xml">
       <configuration name="RobotTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RobotTest - 2018.09.23 at 16h 37m 30s.xml">
-      <configuration name="RobotTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RobotTest - 2018.09.23 at 16h 39m 09s.xml">
-      <configuration name="RobotTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RobotTest - 2018.09.23 at 16h 39m 19s.xml">
-      <configuration name="RobotTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RobotTest - 2018.09.23 at 16h 41m 11s.xml">
-      <configuration name="RobotTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RobotTest - 2018.09.23 at 16h 41m 21s.xml">
-      <configuration name="RobotTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RobotTest - 2018.09.23 at 16h 43m 06s.xml">
+    <history-entry file="RobotTest - 2018.09.28 at 10h 41m 22s.xml">
       <configuration name="RobotTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2888000" />
+    <option name="totallyTimeSpent" value="8002000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="764" y="210" width="1043" height="969" extended-state="0" />
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25374624" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14277808" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -286,14 +400,14 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28688523" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.28648648" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="12" />
@@ -312,6 +426,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -320,10 +437,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc;n#getY#0;n#Robot#0" />
+            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+            <element signature="e#404#405#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/at/htl/robot/model/RobotTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="120" column="78" selection-start-line="120" selection-start-column="78" selection-end-line="120" selection-end-column="78" />
+        <state relative-caret-position="470">
+          <caret line="135" column="5" selection-start-line="135" selection-start-column="5" selection-end-line="135" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -332,22 +481,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/robot/model/Direction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/at/htl/robot/model/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
         </state>
       </provider>
     </entry>

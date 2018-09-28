@@ -1,8 +1,13 @@
+import at.htl.robot.model.Robot;
+
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
 
-        // Do something with the robot
+        Robot robot = new Robot();
 
     }
 
